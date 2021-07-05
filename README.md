@@ -8,7 +8,7 @@
 <div style="display: flex;">
 <div>
   <a href="https://github.com/LRittes">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=LRittes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=LRittes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRittes&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block;" align = "center">
