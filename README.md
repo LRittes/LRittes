@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript and React**
 
-- 👨‍💻 All of my projects are available at [Personal site](https://lrittes.github.io/Site-about-me/)
+- 👨‍💻 All of my projects are available at [Personal site](https://leandro-rittes.netlify.app/)
 
 <div style="display: flex;">
 <div>
