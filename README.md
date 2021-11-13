@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rittes</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Typescript and React**
+- 🌱 I’m currently learning **Node and Flutter**
 
 - 👨‍💻 All of my projects are available at [Personal site](https://lrittes.netlify.app)
 
